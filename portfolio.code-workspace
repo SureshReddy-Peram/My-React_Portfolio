@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../movie-app"
+		},
+		{
+			"name": "film-nagar",
+			"path": "../../movie-app/film-nagar"
+		}
+	],
+	"settings": {}
+}
